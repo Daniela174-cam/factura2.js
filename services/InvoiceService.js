@@ -1,5 +1,5 @@
 class InvoiceService {
-    static BASE_URL = 'http://localhost:3001/facturas';
+    static BASE_URL = 'http://localhost:3000/facturas';
 
     static async getAll() {
         const response = await fetch(this.BASE_URL);
