@@ -1,3 +1,21 @@
 {
-  "facturas": []
+  "facturas": [
+    {
+      "info_usu": {
+        "nombre": "dsdgfg",
+        "id": "1738094125212",
+        "direccion": "wfeeg",
+        "email": "danilomuskus1@gmail.com"
+      },
+      "productos": [
+        {
+          "id": "1",
+          "cantidad": "3",
+          "nombre": "fergrg",
+          "valor": "32434"
+        }
+      ],
+      "id": "ba1d"
+    }
+  ]
 }
